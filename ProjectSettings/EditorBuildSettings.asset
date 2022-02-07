@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Fort Building/Scenes/FortScene.unity
-    guid: 3e58dfa09bf9d3c41a7bf8f409171845
+    path: Assets/Scenes/FortScene.unity
+    guid: a028d5960db240d408b76ad1c2476ee9
   m_configObjects: {}
